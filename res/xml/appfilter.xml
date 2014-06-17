@@ -405,6 +405,8 @@
 	<!-- Blind Ninja -->
 	<item component="ComponentInfo{com.EggBones.BlindNinjaLite/com.EggBones.BlindNinjaLite.MainActivity}" drawable="blindninja"/>
 	<item component="ComponentInfo{com.EggBones.BlindNinja/com.EggBones.BlindNinja.MainActivity}" drawable="blindninja"/>
+	<!-- Bloc de notas -->
+	<item component="ComponentInfo{com.taxaly.noteme/com.taxaly.noteme.ListActivity}" drawable="book" />
 	<!-- Blogger -->
 	<item component="ComponentInfo{com.google.android.apps.blogger/com.google.android.apps.blogger.TosActivity}" drawable="blogger" />
 	<!-- Bluetooth GPS -->
@@ -756,6 +758,8 @@
 	<item component="ComponentInfo{com.psrivastava.deviceframegenerator/com.psrivastava.deviceframegenerator.ui.MainActivity}" drawable="deviceframe"/>
 	<!-- Device Help -->
 	<item component="ComponentInfo{com.sec.android.devicehelp/com.sec.android.devicehelp.DeviceHelp}" drawable="devicehelp"/>
+	<!-- Device Manager -->
+	<item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.MainActivity}" drawable="devicemanager"/>
 	<!-- Device Performance -->
 	<item component="ComponentInfo{com.sprint.performance/com.sprint.performance.DevicePerformance}" drawable="deviceperformance"/>
 	<!-- Dev Tools -->
@@ -1597,6 +1601,8 @@
 	<item component="ComponentInfo{com.mapquest.android.ace/com.mapquest.android.ace.MainActivity}" drawable="mapquest"/>
 	<!-- Marvel -->
 	<item component="ComponentInfo{com.mobage.ww.a956.MARVEL_Card_Battle_Heroes_Android/com.mobage.ww.a956.MARVEL_Card_Battle_Heroes_Android.SplashActivity}" drawable="marvel" />
+	<!-- Marca -->
+	<item component="ComponentInfo{com.iphonedroid.marca/com.iphonedroid.marca.SplashActivity}" drawable="marca" />
 	<!-- Master Pro Tools -->
 	<item component="ComponentInfo{com.mahalo.learnprotools.free/com.mahalo.learnprotools.free.StartMahaloCore}" drawable="masterprotools"/>
 	<!-- Maverick GPS -->
@@ -1868,6 +1874,7 @@
 	<!-- Office Calculator -->
 	<item component="ComponentInfo{net.taobits.officecalculator.android/net.taobits.officecalculator.android.CalculatorActivity}" drawable="officecalculator"/>
 	<!-- Office Suite -->
+	<item component="ComponentInfo{com.microsoft.office.officehub/com.microsoft.office.officehub.OHubAppLaunchActivity}" drawable="office"/>
 	<item component="ComponentInfo{com.mobisystems.office/com.mobisystems.office.FileBrowser}" drawable="officesuite"/>
 	<item component="ComponentInfo{com.mobisystems.editor.office_registered/com.mobisystems.office.FileBrowser}" drawable="officesuite"/>
 	<item component="ComponentInfo{com.mobisystems.editor.office_registered/com.mobisystems.office.splashScreen.SplashScreenActivity}" drawable="officesuite"/>
@@ -2268,6 +2275,8 @@
 	<item component="ComponentInfo{com.droidhen.game.rushdown/com.droidhen.game.rushdown.DeepDownGame}" drawable="rushdown"/>
 	<!-- Ruzzle -->
 	<item component="ComponentInfo{se.maginteractive.rumble.free/se.maginteractive.rumble.activities.SplashActivity}" drawable="ruzzle"/>
+	<!-- Resultado -->
+	<item component="ComponentInfo{com.resultadosfutbol.mobile/com.resultadosfutbol.mobile.Cover}" drawable="marca"/>
 	
 <!-- S -->
 	
@@ -2350,7 +2359,7 @@
 	<item component="ComponentInfo{com.shazam.encore.android/com.shazam.android.Splash}" drawable="shazam"/>
 	<item component="ComponentInfo{com.shazam.encore.android/com.shazam.android.Splash}" drawable="shazam"/>
 	<item component="ComponentInfo{com.shazam.encore.android/com.shazam.android.activities.Splash}" drawable="shazam"/>
-	<item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.Splash}" drawable="shazam"/>
+	<item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="shazam"/>
 	<!-- Shinerunner -->
 	<item component="ComponentInfo{com.vectorunit.green/com.vectorunit.green.Green}" drawable="shinerunner" />
 	<!-- Shipwrecked -->
